@@ -3,12 +3,12 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"COVID -19 Tracker",
+        description:"COVID-19 Tracker made with React-js, consuming an API to provide the statisctics. Technologies used are materialUI, react-chartjs and React.",
+        tags:[" react-chartjs","materialUI"," React"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://covid-19-20-tracker.netlify.app/",
+        github:"https://github.com/brayokenya/covid-19-Tracker"
     },
     {
         id:2,

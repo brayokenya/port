@@ -72,11 +72,11 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        A top graduate from Moringa School equiped with cuting edge skills suitable for providing solutions to modern problems.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+My main stacks are Angular(Front-End) (currently learning react-js) and Django(Back-End). My main areas of profeciency are Postgress for Database management, Django REST Framework, Python/JavaScript Programming language, Command Line Interface, and Github Version Control.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+My Hobbies are Hiking, Playing VideoGames and Travelling.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
